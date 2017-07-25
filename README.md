@@ -14,8 +14,8 @@ a project about a friend of mine's modded gaming computer
 + just google "frozen grey twister"
 + nexthardware.com <https://www.nexthardware.com/forum/worklogs/86929-project-frozen-grey-twister.html>
 
-## elenco componenti not-mod
+## hardware components (not-mod)
 TODO
 
-## elenco componenti mod-only
+## hardware components (mod-only)
 TODO
