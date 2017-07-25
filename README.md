@@ -25,7 +25,7 @@ a project about a friend of mine's modded gaming computer
 + just google "frozen grey twister" <https://www.google.it/search?q=frozen+grey+twister&sourceid=opera&ie=UTF-8&oe=UTF-8>
 + nexthardware.com <https://www.nexthardware.com/forum/worklogs/86929-project-frozen-grey-twister.html>
 + drako.it <http://drako.it/drako_catalog/index.php>
-
++ pcpartpicker.com <https://pcpartpicker.com/list/CMwK9W>
 ## hardware components (not-mod)
 TODO
 
