@@ -17,6 +17,9 @@ a project about a friend of mine's modded gaming computer
 ![alt tag](https://user-images.githubusercontent.com/18740246/28567985-88b504de-7134-11e7-87c1-50695506cb36.jpg)
 ![alt tag](https://user-images.githubusercontent.com/18740246/28567986-88b5452a-7134-11e7-9fc3-92532c9cfede.jpg)
 ![alt tag](https://user-images.githubusercontent.com/18740246/28567989-88bf6168-7134-11e7-8a1c-89d57265969e.jpg)
+![alt tag](https://user-images.githubusercontent.com/18740246/28571110-9d457750-7141-11e7-8712-b95fcc593857.jpg)
+![alt tag](https://user-images.githubusercontent.com/18740246/28571111-9d65ad18-7141-11e7-93b0-906d2fa37e79.jpg)
+
 
 ## usefull links
 + just google "frozen grey twister" <https://www.google.it/search?q=frozen+grey+twister&sourceid=opera&ie=UTF-8&oe=UTF-8>
