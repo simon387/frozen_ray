@@ -1,5 +1,5 @@
 # FROZEN RAY
-a project about a friend of mine's modded gaming computer
+a project about a modded gaming computer
 
 ## usefull links
 + just google "frozen grey twister" <https://www.google.it/search?q=frozen+grey+twister&sourceid=opera&ie=UTF-8&oe=UTF-8>
