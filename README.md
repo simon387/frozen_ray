@@ -1,6 +1,23 @@
 # FROZEN RAY
 a project about a friend of mine's modded gaming computer
 
+## usefull links
++ just google "frozen grey twister" <https://www.google.it/search?q=frozen+grey+twister&sourceid=opera&ie=UTF-8&oe=UTF-8>
++ nexthardware.com <https://www.nexthardware.com/forum/worklogs/86929-project-frozen-grey-twister.html>
++ drako.it <http://drako.it/drako_catalog/index.php>
++ pcpartpicker.com <https://pcpartpicker.com/list/CMwK9W>
+
+## hardware components (not-mod)
++ Intel - Core i7-7700K 4.2GHz Quad-Core Processor
++ TODO
+
+## hardware components (mod-only)
++ Corsair - 780T ATX Full Tower Case
++ TODO
+
+## BIOS settings
++ TODO
+
 ## first concept images and tmp imgs (taking inspiration from)
 ![alt tag](https://user-images.githubusercontent.com/18740246/28564312-e5b038f4-7128-11e7-8558-7748de2fbb75.jpg)
 ![alt tag](https://user-images.githubusercontent.com/18740246/28564785-69f55ef4-712a-11e7-8861-560459fda452.jpg)
@@ -19,15 +36,3 @@ a project about a friend of mine's modded gaming computer
 ![alt tag](https://user-images.githubusercontent.com/18740246/28567989-88bf6168-7134-11e7-8a1c-89d57265969e.jpg)
 ![alt tag](https://user-images.githubusercontent.com/18740246/28571110-9d457750-7141-11e7-8712-b95fcc593857.jpg)
 ![alt tag](https://user-images.githubusercontent.com/18740246/28571111-9d65ad18-7141-11e7-93b0-906d2fa37e79.jpg)
-
-
-## usefull links
-+ just google "frozen grey twister" <https://www.google.it/search?q=frozen+grey+twister&sourceid=opera&ie=UTF-8&oe=UTF-8>
-+ nexthardware.com <https://www.nexthardware.com/forum/worklogs/86929-project-frozen-grey-twister.html>
-+ drako.it <http://drako.it/drako_catalog/index.php>
-+ pcpartpicker.com <https://pcpartpicker.com/list/CMwK9W>
-## hardware components (not-mod)
-TODO
-
-## hardware components (mod-only)
-TODO
