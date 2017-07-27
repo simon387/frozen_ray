@@ -8,6 +8,7 @@ a project about a modded gaming computer
 + pcpartpicker.com <https://pcpartpicker.com/list/CMwK9W>
 
 ## hardware components (not-mod)
++ ASUS ROG MAXIMUS IX EXTREME
 + Intel - Core i7-7700K 4.2GHz Quad-Core Processor
 + TODO
 
